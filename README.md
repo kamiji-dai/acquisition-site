@@ -1,4 +1,4 @@
-# Acquisition Test
+# Acquisition - Site
 アクセス・CV計測用のテストサイトです。
 
 - アクセス計測
